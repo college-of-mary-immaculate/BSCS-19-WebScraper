@@ -30,7 +30,7 @@ Adam Marcaida Jr. BSCS-01 / 19-1460
 
 1. after run the program the new dialog box will apear 
   ** Enter the username and password:
-     **username = user**
+     **username = user** 
       **password = password**
       
 2. and the main window will open
