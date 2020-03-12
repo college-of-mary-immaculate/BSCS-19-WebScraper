@@ -21,9 +21,9 @@ Adam Marcaida Jr. BSCS-01 / 19-1460
 ## NEEDED MODULES TO INSTALL     
 >>>>>>> MODULES that posibly to install in your editor
 1. Open Spyder
-- **bs4 - in the spyder Ipython Console type this and enter: >>>> conda install -c anaconda beautifulsoup4.**
-- **For me guys that module only I installed.**
-- **restart the spyder'**
+- *bs4 - in the spyder Ipython Console type this and enter: >>>>* **conda install -c anaconda beautifulsoup4.**
+- *For me guys that module only I installed.*
+- *restart the spyder*
 2.  from Spyder Import "python tkinter scraper.py"
 3. run the program
 ******************************************************************************************************************
