@@ -1,11 +1,12 @@
 # My_Project_in_prog_02-tkinter
 Adam Marcaida Jr. BSCS-01 / 19-1460
-#IMPORTATN NOTES     
-*This is a Pyhon Code.
-*This is Webscrape with GUI.
-*It is a tkinter project.
-*Code will work in any editor like sublime, vs-code, spyder, jupyter etc.
-*But I used a Anaconda-Spyder and I recomended that because for me it easy to use and if you want to update and install any modules.
+*****************************************************************************************************************
+# IMPORTATN NOTES     
+   *This is a Pyhon Code.
+   *This is Webscrape with GUI.
+   *It is a tkinter project.
+   *Code will work in any editor like sublime, vs-code, spyder, jupyter etc.
+   *But I used a Anaconda-Spyder and I recomended that because for me it easy to use and if you want to update and install any modules.
 ******************************************************************************************************************
 ## INSTALL EDITOR (ANACONDA-SPYDER)    
 
