@@ -2,11 +2,11 @@
 Adam Marcaida Jr. BSCS-01 / 19-1460
 *****************************************************************************************************************
 # IMPORTATN NOTES     
-   *This is a Pyhon Code.
-   *This is Webscrape with GUI.
-   *It is a tkinter project.
-   *Code will work in any editor like sublime, vs-code, spyder, jupyter etc.
-   *But I used a Anaconda-Spyder and I recomended that because for me it easy to use and if you want to update and install any modules.
+   1. *This is a Pyhon Code.
+   2. *This is Webscrape with GUI.
+   3. *It is a tkinter project.
+   4. *Code will work in any editor like sublime, vs-code, spyder, jupyter etc.
+   5. *But I used a Anaconda-Spyder and I recomended that because for me it easy to use and if you want to update and install any modules.
 ******************************************************************************************************************
 ## INSTALL EDITOR (ANACONDA-SPYDER)    
 
