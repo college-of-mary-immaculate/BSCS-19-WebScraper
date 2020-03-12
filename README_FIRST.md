@@ -46,11 +46,11 @@ Adam Marcaida Jr. BSCS-01 / 19-1460
 
 
 ***MODULES AND PACKAGES IMPORTED***
-1. bs4 - pulling data out of HTML and XML files
-2. urllib -  used to fetch URLs
-3. re -  for regular expression
-4. tkinter - for GUI
-5. csv -  for database and saving
-6. os -  for directory
-7. sys - I used for extra 'sys. exit()'
-8. pathlib - I used to find all '*.csv' files in given directory
+1. **bs4** - pulling data out of HTML and XML files
+2. **urllib** -  used to fetch URLs
+3. **re** -  for regular expression
+4. **tkinter** - for GUI
+5. **csv** -  for database and saving
+6. **os** -  for directory
+7. **sys** - I used for extra 'sys. exit()'
+8. **pathlib** - I used to find all '*.csv' files in given directory
