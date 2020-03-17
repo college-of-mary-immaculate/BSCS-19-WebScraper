@@ -24,7 +24,7 @@
 ## References
 - https://www.youtube.com/watch?v=XQgXKtPSzUI
 
-## Contibuting to {BSCS-18-WebScraper}
+## Contibuting to BSCS-18-WebScraper
 To contribute to *BSCS-18-WebScraper*, make sure to give a star and forked this repository.
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
