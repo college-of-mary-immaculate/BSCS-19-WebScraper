@@ -22,7 +22,7 @@
 - Be patient by using it, it is under development
 
 ## References
-- https://www.youtube.com/watch?v=XQgXKtPSzUI
+- https://code.datasciencedojo.com/datasciencedojo/tutorials/tree/master/Web%20Scraping%20with%20Python%20and%20BeautifulSoup
 
 ## Contibuting to BSCS-18-WebScraper
 To contribute to *BSCS-18-WebScraper*, make sure to give a star and forked this repository.
