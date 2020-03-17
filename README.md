@@ -3,18 +3,19 @@
 {Adam Marcaida Jr.}
 
 ## Started by
-- {Adam} Batch { 2019 - 2020 }
+- {Adam-22-26} Batch { 2019 - 2020 }
 - {Your name} Batch { 20?? - 20?? }
 - {Your name} Batch { 20?? - 20?? }
 
 ## Pre-requisites
+- {windows Service Pack 1}
 - {Microsoft DotNet Framework 4.5 or higher}
 - {Microsoft Visual C++ Runtime 2011}
-- {windows Service Pack 1}
 
 ## Up and Running
 - install anaconda sypder on your computer
 - install bs4 in anaconda spyder >>>conda install -c anaconda beautifulsoup4
+- use this username and passwowrd  username: *user* | password: *password*
 
 ## References
 - {https://www.youtube.com/watch?v=XQgXKtPSzUI}
