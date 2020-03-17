@@ -16,6 +16,12 @@
 - install anaconda sypder on your computer
 - install bs4 in anaconda spyder >>>conda install -c anaconda beautifulsoup4
 - use this username and passwowrd  username: *user* | password: *password*
+- Search any Computer/Computer Parts and electronics
+- the searched will appear to the listboxes
+- and if you need to search again you have to new window
+- and it has a save as method
+- and it has open method
+- Be patient by using it, it is under development
 
 ## References
 - {https://www.youtube.com/watch?v=XQgXKtPSzUI}
