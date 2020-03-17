@@ -22,8 +22,8 @@
 - Be patient by using it, it is under development
 
 ## References
-- https://code.datasciencedojo.com/datasciencedojo/tutorials/tree/master/Web%20Scraping%20with%20Python%20and%20BeautifulSoup
-- https://beautifier.io/
+- https://code.datasciencedojo.com/datasciencedojo/tutorials/tree/master/Web%20Scraping%20with%20Python%20and%20BeautifulSoup 
+- https://beautifier.io/ --> *for js-beutify to see clear the tags*
 
 ## Contibuting to BSCS-18-WebScraper
 To contribute to *BSCS-18-WebScraper*, make sure to give a star and forked this repository.
