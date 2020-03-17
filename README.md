@@ -3,7 +3,7 @@
 **Adam Marcaida Jr**
 
 ## Started by
-- Adam-22-26 Batch { 2019 - 2020 }
+- Adam-22-26 Batch  2019 - 2020 
 
 ## Pre-requisites
 - windows Service Pack 1
@@ -23,6 +23,7 @@
 
 ## References
 - https://code.datasciencedojo.com/datasciencedojo/tutorials/tree/master/Web%20Scraping%20with%20Python%20and%20BeautifulSoup
+- https://beautifier.io/
 
 ## Contibuting to BSCS-18-WebScraper
 To contribute to *BSCS-18-WebScraper*, make sure to give a star and forked this repository.
